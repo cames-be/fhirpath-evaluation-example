@@ -1,3 +1,9 @@
+---
+title: Firely FhirPath Examples
+google-site-verification: ZpdDtXaTbbaAaUeJ7YVw21oUeZ-SIs-uQZOnZos1nHM
+---
+<meta name="google-site-verification" content="L0emuyFDx7zeUw2KdXoTnnpL6NZc0ELR439snORXwL4" />
+
 # Firely FhirPath Examples
 
 Example code for evaluating FhirPath expressions using Firely.  Self hosts endpoints for REST calls to locate external Fhir resources with sample json files.  Examples include:

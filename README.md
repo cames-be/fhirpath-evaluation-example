@@ -1,7 +1,7 @@
----
+<!--
 title: Firely FhirPath Examples
 google-site-verification: ZpdDtXaTbbaAaUeJ7YVw21oUeZ-SIs-uQZOnZos1nHM
----
+-->
 <meta name="google-site-verification" content="L0emuyFDx7zeUw2KdXoTnnpL6NZc0ELR439snORXwL4" />
 
 # Firely FhirPath Examples
